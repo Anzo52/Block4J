@@ -3,6 +3,10 @@
 
 Java class and Maven starter pom.xml for getting Eth block number.
 
+## Testing
+
+You can get a test endpoint at [infura.io](https://infura.io)
+
 
 ## Authors
 
